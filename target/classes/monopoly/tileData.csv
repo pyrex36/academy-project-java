@@ -1,0 +1,25 @@
+costOfRent,costOfHouse,name,buybackRate
+100,50,Old Kent Road,80
+120,50,Whitechapel Road,100
+150,75,Islington,120
+180,75,Euston Road,140
+200,100,Pentonville Road,160
+220,100,Pall Mall,180
+240,125,Whitehall,200
+260,125,Northumberland Avenue,220
+280,150,Bow Street,240
+300,150,Marlborough Street,260
+320,175,Vine Street,280
+340,175,Strand,300
+360,200,Fleet Street,320
+380,200,Trafalgar Square,340
+400,225,Leicester Square,360
+420,225,Coventry Street,380
+440,250,Piccadilly,400
+460,250,Regent Street,420
+480,275,Oxford Street,440
+500,275,Bond Street,460
+520,300,Park Lane,480
+540,300,Mayfair,500
+560,325,Kings Cross Station,520
+580,325,Marylebone Station,540
