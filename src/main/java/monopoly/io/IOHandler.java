@@ -1,6 +1,7 @@
 package monopoly.io;
 
 import monopoly.gameplay.Choice;
+
 import monopoly.gameplay.Choices;
 
 public interface IOHandler {

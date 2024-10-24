@@ -1,6 +1,7 @@
 package monopoly.io;
 
 import monopoly.gameplay.MonopolyProperty;
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
